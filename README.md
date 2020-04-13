@@ -1,5 +1,5 @@
 # CircleCI Step by Step Application using Ruby
-[![CircleCI](https://circleci.com/gh/CircleCI-Public/circleci-step-by-step-ruby/tree/step3-workflows.svg?style=svg)](https://circleci.com/gh/CircleCI-Public/circleci-step-by-step-ruby/tree/step3-workflows)
+[![CircleCI](https://circleci.com/gh/CircleCI-Public/circleci-step-by-step-ruby/tree/step3-workflows-sequential.svg?style=svg)](https://circleci.com/gh/CircleCI-Public/circleci-step-by-step-ruby/tree/step3-workflows-sequential)
 
 This is an example application how to learn CircleCI step by step.
 
